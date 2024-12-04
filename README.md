@@ -20,6 +20,8 @@ Alternatively, if your notebook is in a GitHub repository, you can open it direc
 - This contains all the EDA and all the code for the deliverables upto the mid project report. 
 - Ensure that the elstats_search_23575a519141a70c_copy.csv (available in repo) file is also uploaded into the same directory as the ipynb file.
 - Further instructers will be present in the comments for each code block.
+- **NOTE** : The api key in the beginning must be replaced by your own API key which can be obtained by requesting an ACS API key here:
+https://api.census.gov/data/key_signup.html
 - Each cell can be run using the run button.
 
 **2)OSNA_Code_Final.ipynb**
@@ -30,6 +32,9 @@ Alternatively, if your notebook is in a GitHub repository, you can open it direc
  2)df_new.csv
  3)president.csv,  (all available in repo) files are also uploaded into the same directory as the ipynb file.
 - Further instructers will be present in the comments for each code block.
+- **NOTE** : The api key in the beginning must be replaced by your own API key which can be obtained by requesting an ACS API key here:
+https://api.census.gov/data/key_signup.html
 - Each cell can be run using the run button.
 https://drive.google.com/drive/folders/1qGeLmwiItBtlGmQT3X16jPyUfZtWuJrS?usp=drive_link
 
+3)OSNA_GIS_MID
