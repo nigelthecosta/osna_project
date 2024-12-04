@@ -35,6 +35,11 @@ https://api.census.gov/data/key_signup.html
 - **NOTE** : The api key in the beginning must be replaced by your own API key which can be obtained by requesting an ACS API key here:
 https://api.census.gov/data/key_signup.html
 - Each cell can be run using the run button.
-https://drive.google.com/drive/folders/1qGeLmwiItBtlGmQT3X16jPyUfZtWuJrS?usp=drive_link
 
-3)OSNA_GIS_MID
+
+**3)OSNA_GIS_MID_FINAL ASWELL.ipynb**
+- This contains all the GIS related code.
+- first download all the files from this folder: https://drive.google.com/drive/folders/1qGeLmwiItBtlGmQT3X16jPyUfZtWuJrS?usp=drive_link 
+- Ensure that all the downloaded files and the OSNA_GIS_MID_FINAL ASWELL.ipynb file are uploaded into the same directory in google collab.
+- Each cell can be run using the run button.
+
